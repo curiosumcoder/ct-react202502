@@ -12,7 +12,7 @@ Instalar o actualizar a la última versión.
     * Agregar la extensión **ritwickdey.LiveServer**.
 	
 * Node.js\
-https://nodejs.org/en/download/. \
+https://nodejs.org/en/download/ \
 Instalar la última versión LTS (Long Term Support). 
 Se puede comprobar la versión por medio de la línea de comandos con: node --version.
 	
@@ -32,7 +32,7 @@ Se puede comprobar la versión instalada por medio de la línea de comandos con:
  \Se puede comprobar la versión instalada por medio de la línea de comandos con: json-server --version.
 
 * Postman\
-    https://www.postman.com/downloads/\
+    https://www.postman.com/downloads/ \
     Utilidad para efecuar pruebas del APIs REST.
 
 * Acceso a Internet. Pues todas las dependencias de paquetes están disponibles a través de la web.
