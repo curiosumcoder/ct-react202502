@@ -12,8 +12,8 @@ Instalar o actualizar a la última versión.
     * Agregar la extensión **ritwickdey.LiveServer**.
 	
 * Node.js\
-https://nodejs.org/en/download/.\
-Instalar la última versión LTS (Long Term Support).\
+https://nodejs.org/en/download/. \
+Instalar la última versión LTS (Long Term Support). 
 Se puede comprobar la versión por medio de la línea de comandos con: node --version.
 	
 * NPM actualizado\
