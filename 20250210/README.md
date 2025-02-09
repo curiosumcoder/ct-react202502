@@ -7,3 +7,5 @@
 
 * import 'bootstrap/dist/css/bootstrap.min.css'
 * import 'bootstrap-icons/font/bootstrap-icons.min.css'
+* vite build -> .env.production
+* vite build --mode staging -> .env.staging
