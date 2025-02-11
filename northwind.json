@@ -1076,6 +1076,36 @@
       "unitsOnOrder": 0,
       "reorderLevel": 0,
       "discontinued": false
+    },
+    {
+      "productName": "Frijoles Negros",
+      "unitPrice": "1000",
+      "quantityPerUnit": "Bolsa de Kilo",
+      "id": 93
+    },
+    {
+      "productName": "Frijoles Negros",
+      "unitPrice": "1000",
+      "quantityPerUnit": "Bolsa de Kilo",
+      "id": 94
+    },
+    {
+      "productName": "Frijoles Negros",
+      "unitPrice": "1000",
+      "quantityPerUnit": "Bolsa de Kilo",
+      "id": 95
+    },
+    {
+      "productName": "Piña Rosada",
+      "unitPrice": "555",
+      "quantityPerUnit": "Caja de 10",
+      "id": 96
+    },
+    {
+      "productName": "Tortillas de maíz",
+      "unitPrice": "400",
+      "quantityPerUnit": "10 por bolsa",
+      "id": 97
     }
   ],
   "customers": [
