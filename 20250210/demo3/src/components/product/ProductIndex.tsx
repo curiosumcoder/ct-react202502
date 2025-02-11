@@ -1,3 +1,4 @@
+// /product/
 import { useEffect } from "react";
 import useProductSearch from "../../hooks/useProductSearch";
 import useInput, { IInput } from "../../hooks/useInput";
