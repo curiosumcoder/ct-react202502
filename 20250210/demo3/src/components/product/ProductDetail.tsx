@@ -12,6 +12,8 @@ function ProductDetail() {
   const ps = useMemo(() => new ProductService(), []);
   const [product, setProduct] = useState<IProduct | null>();
 
+  // /product/:id
+  // /product/11
   const parametros = useParams();
   console.log('useParams: ' + JSON.stringify(parametros));
 

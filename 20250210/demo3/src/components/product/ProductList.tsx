@@ -1,3 +1,4 @@
+import { Link } from "react-router";
 import IProduct from "../../models/IProduct";
 
 
@@ -32,11 +33,12 @@ function ProductList({ products, onSelect, onEdit }: productListProps) {
                   <td>{p.unitPrice}</td>
                   <td>{p.category?.categoryName ?? ""}</td>
                   <td>
+                    <Link to={`detail/${p.id}`}>                    
                     <i
                       className="bi bi-caret-right"
                       style={{ color: "green", cursor: "pointer" }}
-                      onClick={() => onSelect?.(p)}
                     ></i>
+                    </Link>
                   </td>
                   <td>
                     <i
